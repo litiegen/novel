@@ -1,0 +1,22 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "小说集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litiegen/novel.git"
+  },
+  "author": "litiegen",
+  "license": "MIC",
+  "bugs": {
+    "url": "https://github.com/litiegen/novel/issues"
+  },
+  "homepage": "https://github.com/litiegen/novel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
